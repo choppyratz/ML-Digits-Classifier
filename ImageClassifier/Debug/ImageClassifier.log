@@ -1,0 +1,35 @@
+﻿  ImageClassifier.cpp
+C:\Users\German\source\repos\ImageClassifier\ImageClassifier.cpp(159,48): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\German\source\repos\ImageClassifier\ImageClassifier.cpp(209,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\German\source\repos\ImageClassifier\ImageClassifier.cpp(231,23): warning C4018: <: несоответствие типов со знаком и без знака
+  NeuralNetwork.cpp
+C:\Users\German\source\repos\ImageClassifier\NeuralNetwork.cpp(12,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\German\source\repos\ImageClassifier\NeuralNetwork.cpp(13,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\German\source\repos\ImageClassifier\NeuralNetwork.cpp(30,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\German\source\repos\ImageClassifier\NeuralNetwork.cpp(45,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\German\source\repos\ImageClassifier\NeuralNetwork.cpp(47,31): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\German\source\repos\ImageClassifier\NeuralNetwork.cpp(54,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\German\source\repos\ImageClassifier\NeuralNetwork.cpp(55,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\German\source\repos\ImageClassifier\NeuralNetwork.cpp(56,31): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\German\source\repos\ImageClassifier\NeuralNetwork.cpp(57,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\German\source\repos\ImageClassifier\NeuralNetwork.cpp(67,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\German\source\repos\ImageClassifier\NeuralNetwork.cpp(73,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\German\source\repos\ImageClassifier\NeuralNetwork.cpp(77,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\German\source\repos\ImageClassifier\NeuralNetwork.cpp(101,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\German\source\repos\ImageClassifier\NeuralNetwork.cpp(103,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\German\source\repos\ImageClassifier\NeuralNetwork.cpp(105,31): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\German\source\repos\ImageClassifier\NeuralNetwork.cpp(116,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\German\source\repos\ImageClassifier\NeuralNetwork.cpp(117,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\German\source\repos\ImageClassifier\NeuralNetwork.cpp(126,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\German\source\repos\ImageClassifier\NeuralNetwork.cpp(127,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\German\source\repos\ImageClassifier\NeuralNetwork.cpp(136,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\German\source\repos\ImageClassifier\NeuralNetwork.cpp(137,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\German\source\repos\ImageClassifier\NeuralNetwork.cpp(146,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\German\source\repos\ImageClassifier\NeuralNetwork.cpp(147,27): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода...
+C:\Users\German\source\repos\ImageClassifier\ImageClassifier.cpp(63): warning C4715: ifMouseInImageMap: значение возвращается не при всех путях выполнения
+  ImageClassifier.vcxproj -> C:\Users\German\source\repos\ImageClassifier\Debug\ImageClassifier.exe

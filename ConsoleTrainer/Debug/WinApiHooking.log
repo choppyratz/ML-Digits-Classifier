@@ -1,0 +1,3 @@
+﻿  WinApiHooking.cpp
+C:\Users\German\source\repos\WinApiHooking\WinApiHooking.cpp(89,31): warning C4018: <: несоответствие типов со знаком и без знака
+  WinApiHooking.vcxproj -> C:\Users\German\source\repos\WinApiHooking\Debug\WinApiHooking.exe

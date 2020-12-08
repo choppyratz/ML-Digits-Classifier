@@ -1,0 +1,2 @@
+C:\Users\German\source\repos\WinApiHooking\Debug\WinApiHooking.exe
+C:\Users\German\source\repos\WinApiHooking\Debug\WinApiHooking.pdb
